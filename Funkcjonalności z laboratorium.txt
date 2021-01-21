@@ -1,0 +1,1 @@
+Aby na obrazku narysować ramkę należy z Menu wybrać opcję "Modify image (frame)".
