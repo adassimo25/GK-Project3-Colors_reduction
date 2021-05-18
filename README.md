@@ -26,7 +26,7 @@ Kliknięcie przycisku <b>Refresh</b> spowoduje odświeżenie edytowanego obrazu 
 
 Każdy powyższy parametr jest liczbą całkowitą z przedziału <2, 256>.
 
-<b>Params for popularity algorithm</b> grupa parametrów dla algorytmu popularnościowego. Grupa zawiera jeden parametr <b>K</b> określający ile najczęściej występujących kolorów algorytm ma uwzględnić. Jest to liczba całkowita z przedziału <4, 262144>, domyślnie K=1024.
+<b>Params for popularity algorithm</b> to grupa parametrów dla algorytmu popularnościowego. Grupa zawiera jeden parametr <b>K</b> określający ile najczęściej występujących kolorów algorytm ma uwzględnić. Jest to liczba całkowita z przedziału <4, 262144>, domyślnie K=1024.
 
 Na starcie w aplikacji załadowane jest słynne zdjęcie szwedzkiej modelki Leny Forsén (wcześniej Söderberg) z 1972 roku.
 
